@@ -1,0 +1,13 @@
+.footer-catagories {
+    display: flex;
+    margin: 40px;
+    
+}
+.footer-catagories ul{
+    list-style: none;
+    margin-left: 40px;
+}
+
+.footer-catagories li a{
+   text-decoration: none;
+}
