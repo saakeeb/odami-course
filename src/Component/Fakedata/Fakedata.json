@@ -6,7 +6,7 @@
         "last": "Maxwell"
       },
       "balance": 2817.65,
-      "picture": "https://randomuser.me/api/portraits/women/73.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/26.jpg",
       "course": "Python Bootcamp",
       "phone": "01719566922",
       "about": "Voluptate amet ea veniam laboris elit ex in Lorem reprehenderit. Reprehenderit dolore aliquip exercitation Lorem Lorem proident Lorem. In tempor amet pariatur aute nulla pariatur aliqua officia exercitation incididunt et. Aliquip ad dolore ut occaecat veniam quis minim duis sit adipisicing Lorem elit ut."
@@ -30,7 +30,7 @@
         "last": "Castro"
       },
       "balance": 3632.56,
-      "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/30.jpg",
       "course": "Ethical Hacking",
       "phone": "01719442084",
       "about": "Nostrud irure id amet non nulla anim et consectetur sunt commodo sint culpa do amet. Quis fugiat laborum commodo officia incididunt sunt dolor consequat do id enim. Ipsum ullamco esse commodo ex reprehenderit laboris occaecat officia ex tempor cupidatat aute amet. Deserunt in commodo sit laboris id proident anim aliqua minim sunt ipsum irure. Qui tempor magna magna exercitation cillum voluptate anim pariatur. Reprehenderit minim mollit enim in magna sunt id labore mollit dolore."
@@ -42,7 +42,7 @@
         "last": "Atkins"
       },
       "balance": 2649.82,
-      "picture": "https://randomuser.me/api/portraits/women/1.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/29.jpg",
       "course": "IELTS Preparation",
       "phone": "01719583277",
       "about": "Enim ullamco laboris laborum deserunt esse sit id excepteur aliqua. Ipsum do anim deserunt consequat eiusmod proident ex voluptate anim dolor voluptate ipsum nostrud. Aliquip non irure incididunt aute fugiat irure eiusmod sit laboris proident in. Sunt excepteur culpa anim exercitation in ut incididunt do incididunt incididunt nisi aliqua ea non."
@@ -54,7 +54,7 @@
         "last": "Osborn"
       },
       "balance": 2790.61,
-      "picture": "https://randomuser.me/api/portraits/women/75.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/79.jpg",
       "course": "Microsoft Azure",
       "phone": "01719488474",
       "about": "Proident nostrud consectetur deserunt amet tempor qui irure. Irure nisi anim nulla eu veniam anim esse deserunt dolore ut proident nulla. Pariatur eiusmod deserunt sint aute ipsum et ea enim pariatur consequat est eu in excepteur. Nisi cupidatat do irure velit culpa sint culpa do Lorem."
@@ -66,7 +66,7 @@
         "last": "Pearson"
       },
       "balance": 2423.40,
-      "picture": "https://randomuser.me/api/portraits/women/59.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/61.jpg",
       "course": "C# game develop",
       "phone": "01719405770",
       "about": "Consectetur magna qui ullamco sit. Ullamco non eu ut nulla culpa officia reprehenderit fugiat enim sit amet nulla consequat. Officia est cupidatat laborum ullamco esse. Culpa tempor dolore qui proident dolore veniam nulla. Cupidatat mollit sunt quis consequat cupidatat sit esse sunt."
@@ -78,7 +78,7 @@
         "last": "Dudley"
       },
       "balance": 3257.97,
-      "picture": "https://randomuser.me/api/portraits/women/63.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/75.jpg",
       "course": "Web development",
       "phone": "01719552293",
       "about": "Dolore veniam enim velit nostrud reprehenderit quis commodo aliquip voluptate cillum. Veniam laborum adipisicing laborum mollit mollit sunt culpa eu. In ea consequat est deserunt velit mollit pariatur quis magna laborum adipisicing. Aliquip enim proident irure esse irure minim anim id cillum qui elit ex mollit excepteur. Culpa pariatur dolore voluptate quis sunt excepteur. Eu labore excepteur proident officia deserunt ex consectetur laborum quis ipsum ipsum cupidatat est."
@@ -138,7 +138,7 @@
         "last": "Petty"
       },
       "balance": 2037.15,
-      "picture": "https://randomuser.me/api/portraits/women/57.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/22.jpg",
       "course": "Python automation",
       "phone": "01719521311",
       "about": "Pariatur ad amet nostrud mollit. Laboris amet cupidatat officia reprehenderit pariatur proident tempor quis aliquip enim Lorem dolore. Non laboris mollit eiusmod sit. Quis in aute deserunt exercitation. Enim ullamco sunt labore ullamco aliquip Lorem."
@@ -146,11 +146,11 @@
     {
       "_id": 123,
       "name": {
-        "first": "Tracy",
+        "first": "Trace",
         "last": "Ewing"
       },
       "balance": 2980.74,
-      "picture": "https://randomuser.me/api/portraits/women/94.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/76.jpg",
       "course": "Complete react guide",
       "phone": "01719534229",
       "about": "Elit laborum mollit aute labore fugiat aliquip pariatur qui cillum ad. Officia cillum anim aute consequat elit minim velit qui non reprehenderit veniam. Duis in ad sit mollit voluptate reprehenderit nulla voluptate ullamco velit excepteur id incididunt. Quis fugiat qui nostrud voluptate aliqua Lorem elit tempor nisi."
@@ -174,7 +174,7 @@
         "last": "Gelle"
       },
       "balance": 3624.37,
-      "picture": "https://randomuser.me/api/portraits/women/72.jpg",
+      "picture": "https://randomuser.me/api/portraits/men/20.jpg",
       "course": "Machine learning",
       "phone": "01719422569",
       "about": "Dolor eu id ad consectetur mollit minim cillum ut pariatur. Culpa consequat esse aliqua adipisicing ea occaecat pariatur irure ullamco dolor. Eiusmod enim eiusmod esse Lorem in ut laboris proident aliquip culpa dolor id. Nisi velit ut occaecat dolor excepteur non."
