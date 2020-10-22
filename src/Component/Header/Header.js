@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div style={{marginBottom:'10px'}}>
             <nav className="navbar navbar-light" style={{backgroundColor: "#e3f2fd"}}>
-                <h1>Odami Course</h1>
+                <div ><h1><a href="#" style={{color:'black', textDecoration:'none'}}>Odami Course</a></h1></div>
                 <a href="#" style={{textDecoration:'none'}} className='hoverable'><small>Catagories</small></a>
                 <form className="form-inline my-2 my-lg-0">
                     <input type="text" name="" className='form-control mr-sm-2' placeholder="Search Your Course" style={{ borderRadius:'15px', borderStyle:'none'}}/>

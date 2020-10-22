@@ -7,8 +7,9 @@ const Cart = (props) => {
     const total = cart.reduce((total, sum)=> total + sum.balance , 0).toFixed(2);
     return (
         <div className='text-center m-3'>
-            <p>Course Order: {cart.length}</p>
-            <p>Total Cost: ${total}</p>
+            <h4>Order Summery</h4>
+            <h5>Course Order: {cart.length}</h5>
+            <h6>Total Cost: ${total}</h6>
         </div>
     );
 };

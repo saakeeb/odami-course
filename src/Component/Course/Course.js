@@ -20,8 +20,8 @@ const Course = (props) => {
                     </div>
                     
                     <div className="card-body text-center">
-                        <h5 className="card-title">{course}</h5>
-                        <h3>${balance}</h3>
+                        <h6 className="card-title">{course}</h6>
+                        <h5>${balance}</h5>
                         <button className="btn btn-outline-success my-2 my-sm-0" onClick={()=>handleOnClick(props.course)}>Add cart</button>
                     </div>
                 </div>

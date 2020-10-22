@@ -28,7 +28,7 @@ const Main = () => {
                         </Course>)
                 }
             </div>
-            <div className='cart-section text-center' style={{margin:'0 auto'}}>
+            <div className='cart-section text-center fixed-top' style={{margin:'0 auto',top:'auto', left:'auto'}}>
                 <Cart cart={cart}></Cart>
             </div>
         </div>

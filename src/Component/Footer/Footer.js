@@ -4,7 +4,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-                <div className="footer-section" style={{display:'flex', margin:'50px'}}>
+                <div className="footer-section" style={{display:'flex', margin:'30px auto'}}>
                     <div className='footer-catagories'>
 
                         <ul className="styled-list link-column ">
@@ -69,9 +69,9 @@ const Footer = () => {
                         </ul>
                     </div>
 
-                    <div style={{margin:'60px', marginLeft:'80px'}}>
+                    <div style={{margin:'auto'}}>
                         <div >
-                            <h1>Odami Course</h1>
+                            <h1><a href="#" style={{color:'black', textDecoration:'none'}}>Odami Course</a></h1>
                         </div>
                         <div style={{textDecoration:'center'}}> © 2020 Odami, Inc.</div>
                     </div>

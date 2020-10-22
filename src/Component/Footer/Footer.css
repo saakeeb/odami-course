@@ -1,11 +1,11 @@
 .footer-catagories {
     display: flex;
-    margin: 40px;
+    margin: 0 auto;
     
 }
 .footer-catagories ul{
     list-style: none;
-    margin-left: 40px;
+    margin-left: 0 auto;
 }
 
 .footer-catagories li a{
