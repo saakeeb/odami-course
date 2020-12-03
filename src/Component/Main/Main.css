@@ -4,3 +4,16 @@
 .course-section{
     width: 80%;
 }
+
+
+@media screen and ( max-width: 600px ) {
+     
+    .cart { 
+         position: static; 
+    }
+}
+@media screen and ( min-width: 601px ) {
+    .cart { 
+         position: fixed; 
+   }
+}

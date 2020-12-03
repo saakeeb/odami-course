@@ -11,3 +11,8 @@
 .footer-catagories li a{
    text-decoration: none;
 }
+.footer-section{
+    position: absolute;
+    z-index: 2 !important;
+}
+

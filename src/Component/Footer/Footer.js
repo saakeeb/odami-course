@@ -69,11 +69,11 @@ const Footer = () => {
                         </ul>
                     </div>
 
-                    <div style={{margin:'auto'}}>
+                    <div style={{margin:'1rem 6rem'}}>
                         <div >
                             <h1><a href="#" style={{color:'black', textDecoration:'none'}}>Odami Course</a></h1>
                         </div>
-                        <div style={{textDecoration:'center'}}> © 2020 Odami, Inc.</div>
+                        <div style={{textDecoration:'center', padding:'5px'}}> © 2020 Odami, Inc.</div>
                     </div>
                 </div>
     );

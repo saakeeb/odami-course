@@ -18,7 +18,7 @@ const Main = () => {
 
 
     return (
-        <div className='main-section bg-light'>
+        <div className='main-section bg-light' style={{marginBottom:'4rem', paddingBottom:'4rem'}}>
             <div className='course-section text-center row' >
                 {
                     courses.map(course=> <Course 
@@ -28,7 +28,7 @@ const Main = () => {
                         </Course>)
                 }
             </div>
-            <div className='cart-section text-center fixed-top' style={{margin:'0 auto',top:'auto', left:'auto'}}>
+            <div className='cart-section text-center cart' style={{margin:'0 auto',top:'auto', left:'auto', right:"25px",paddingBottom:'6rem'}}>
                 <Cart cart={cart}></Cart>
             </div>
         </div>
